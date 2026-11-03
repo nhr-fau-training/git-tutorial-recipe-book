@@ -27,8 +27,8 @@
 - Mix dry ingredients
 - Add pumpkin pulp
 - Smash manually until somehow homogeneous
-- Add eggs and blend
 - Add evaporated milk and blend
+- Less sugar
 
 
 ## Baking
