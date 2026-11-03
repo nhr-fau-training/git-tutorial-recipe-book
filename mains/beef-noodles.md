@@ -1,0 +1,6 @@
+- beef
+- noodels
+- water
+- soy sauce
+- water
+- suger

@@ -1,5 +1,7 @@
 # CodeRefinery recipe book
 
+Welcome to this repository!
+
 We use this repository to teach Git and also to collect
 some nice recipes. Now in git
 
